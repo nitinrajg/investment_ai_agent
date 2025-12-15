@@ -1,6 +1,6 @@
 # 📈 AI Investment Analyst
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://investment-ai-agent-free-llm.streamlit.app/)
 
 ### *AI-powered stock comparison and investment analysis — fast, structured, and provider-agnostic.*
 
